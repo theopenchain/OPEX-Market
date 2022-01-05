@@ -1,0 +1,9 @@
+.MuiCardMedia-root{
+	z-index:-1;
+}
+.MuiAvatar-root {
+	position: relative;
+	top: -60px;
+	left: 50%;
+	z-index: 5;
+}

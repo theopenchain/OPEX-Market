@@ -1,0 +1,110 @@
+#Getting_Started_title {
+	position: relative;
+	overflow: visible;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgb(0, 0, 0);
+}
+#Getting_Started_content {
+	position: relative;
+	overflow: visible;
+	line-height: 26px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgb(0, 0, 0);
+}
+#Connect_Wallet_group {
+	position: relative;
+	overflow: visible;
+}
+#Connect_Wallet_title {
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	line-height: 29px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(3,0,59,1);
+}
+#Connect_Wallet_content {
+	position: relative;
+	overflow: visible;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(3,0,59,1);
+}
+#Buy_Shop_Sell_group {
+	position: relative;
+	overflow: visible;
+}
+#Buy_Shop_Sell_title {
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(3,0,59,1);
+}
+#Buy_Shop_Sell_content {
+	position: relative;
+	overflow: visible;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(3,0,59,1);
+}
+
+#Create_Account_group {
+	position: relative;
+	overflow: visible;
+}
+#Create_Account_title {
+	position: relative;
+	overflow: visible;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(3,0,59,1);
+}
+#Create_Account_content {
+	position: relative;
+	overflow: visible;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(3,0,59,1);
+}
